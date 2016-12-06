@@ -1,2 +1,4 @@
 # DE-Translated
-transalted en to the DE
+wDC project type word count max hours
+Source file
+Deliverables
